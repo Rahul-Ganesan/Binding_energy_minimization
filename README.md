@@ -1,1 +1,1 @@
-# Binding_energy_minimization_using_StD-CnG
+# Binding energy minimization using StD-CnG
